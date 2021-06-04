@@ -1,0 +1,104 @@
+{
+    "family": [
+        {
+            "name": "Vilde",
+            "age": 27,
+            "city": "Brumunddal"
+        },
+        {
+            "name": "Mari",
+            "age": 27,
+            "city": "Brumunddal"
+        },
+        {
+            "name": "Johanne",
+            "age": 29,
+            "city": "Lillehammer"
+        },
+        {
+            "name": "Ida",
+            "age": 20,
+            "city": "Pedersen"
+        },
+        {
+            "name": "Guro",
+            "age": 28,
+            "city": "Oslo"
+        },
+        {
+            "name": "Malin",
+            "age": 18,
+            "city": "Bergen"
+        },
+        {
+            "name": "Vilde",
+            "age": 27,
+            "city": "Brumunddal"
+        },
+        {
+            "name": "Hans",
+            "age": 27,
+            "city": "Bergen"
+        },
+        {
+            "name": "Kari",
+            "age": 29,
+            "city": "Lillehammer"
+        },
+        {
+            "name": "Martin",
+            "age": 20,
+            "city": "Pedersen"
+        },
+        {
+            "name": "Guro",
+            "age": 28,
+            "city": "Oslo"
+        },
+        {
+            "name": "Malin",
+            "age": 18,
+            "city": "Bergen"
+        },
+        {
+            "name": "Vilde",
+            "age": 27,
+            "city": "Brumunddal"
+        },
+        {
+            "name": "Mari",
+            "age": 27,
+            "city": "Brumunddal"
+        },
+        {
+            "name": "Nils",
+            "age": 29,
+            "city": "Bodø"
+        },
+        {
+            "name": "Bjørn",
+            "age": 20,
+            "city": "Hansen"
+        },
+        {
+            "name": "Hege",
+            "age": 28,
+            "city": "Stavanger"
+        },
+        {
+            "name": "Lisa",
+            "age": 18,
+            "city": "Bergen"
+        },
+        {
+            "name": "Guro",
+            "age": 28,
+            "city": "Oslo"
+        },
+        {
+            "name": "Malin",
+            "age": 18,
+            "city": "Bergen"
+        }
+    ]
+}
